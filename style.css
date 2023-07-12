@@ -376,7 +376,7 @@ nav {
 #footer-image-container {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
-    margin-bottom: 50px;
+    /* margin-bottom: 50px; */
     position: relative;
 }
 
@@ -456,4 +456,19 @@ footer {
     background-color: rgb(67, 43, 90);
     padding: 5px;
     border-radius: 50%;
+}
+
+.follow-icon{
+    margin-top: 30px;
+    text-align: center;
+}
+
+.follow-icon-link{
+    margin-top: 20px;
+}
+
+.follow-icon-link a{
+    font-size: 2rem;
+    padding: 10px;
+    color: white;
 }
