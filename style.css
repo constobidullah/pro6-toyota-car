@@ -145,4 +145,60 @@ nav {
     height: 100%;
 }
 
+/* Toyota concept */
 
+#toyota-concept {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    /* gap: 40px; */
+    align-items: center;
+}
+
+.toyota-concept-text {
+    margin: 0 0 100px 70px;
+}
+
+.toyota-concept-text h1 {
+    padding: 50px 20px 50px 100px;
+    font-size: 2.5rem;
+    background-image: url("./images/toyota-concept-background.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.toyota-concept-text p {
+    padding: 0 90px 30px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: left;
+}
+
+.toyota-concept-text a {
+    text-decoration: none;
+    margin: 0 0 0 90px;
+    padding: 5px 20px;
+    border-radius: 30px;
+    color: white;
+    font-weight: 800;
+    background-image: linear-gradient(to right, rgb(134, 226, 226) 0%, rgb(119, 119, 255)100%);
+}
+
+.toyota-concept-image{
+    position: relative;
+}
+
+.toyota-concept-image img {
+    object-fit: contain;
+    width: 100%;
+    height: 100%;
+}
+
+.toyota-concept-image-logo{
+    width: 50px;
+    position: absolute;
+    bottom: 5%;
+    right: 25%;
+    opacity: .5;
+}
+
+
+/* Concept looks  */
