@@ -23,3 +23,23 @@ nav{
 .toggle-bar i{
     font-size: 2.5rem;
 }
+
+#header-details{
+    margin: 100px 0;
+    display: grid;
+    grid-template-columns: 1fr;
+    place-items: center;
+}
+
+#header-details-text{
+    text-align: center;
+}
+
+#header-details-text h1{
+    font-size: 3.5rem;
+}
+
+#header-details-text p{
+    font-size: 1.5rem;
+    font-weight: 300;
+}
