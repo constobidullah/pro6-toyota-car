@@ -252,29 +252,29 @@ nav {
     padding: 100px 0 100px 100px;
 }
 
-.concept-team-text p{
+.concept-team-text p {
     font-size: 1.2rem;
-    font-weight:300;
+    font-weight: 300;
     line-height: 30px;
     color: rgb(245, 235, 235);
     text-align: left;
 }
 
-.concept-team-planning{
+.concept-team-planning {
     border-radius: 160px 0 0 160px;
     background-color: white;
     padding: 50px 0 50px 100px;
 }
 
-.concept-team-planning h1{
+.concept-team-planning h1 {
     /* padding-left: 50px; */
     font-family: 'Crimson Text', serif;
-    font-style:oblique;
+    font-style: oblique;
     font-size: 2.5rem;
     margin-bottom: 40px;
 }
 
-.concept-team-planning a{
+.concept-team-planning a {
     text-decoration: none;
     /* margin: 0 0 0 90px; */
     padding: 7px 20px;
@@ -287,7 +287,7 @@ nav {
 /* Concept team end  */
 
 /* Join us start */
-#join-us-container{
+#join-us-container {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     gap: 50px;
@@ -329,7 +329,7 @@ nav {
     font-style: oblique;
 }
 
-.join-us-text p a{
+.join-us-text p a {
     text-decoration: none;
     color: olivedrab;
 }
@@ -348,11 +348,11 @@ nav {
 
 
 /* join future */
-#join-future{
+#join-future {
     margin-left: 200px;
 }
 
-#join-future h1{
+#join-future h1 {
     font-weight: lighter;
     padding: 50px 0 30px 50px;
 
@@ -361,7 +361,7 @@ nav {
     background-size: contain;
 }
 
-#join-future p{
+#join-future p {
     padding-left: 50px;
     margin: 0 0 50px 0;
     line-height: 20px;
@@ -373,15 +373,87 @@ nav {
 
 /* Footer image container */
 
-#footer-image-container{
+#footer-image-container {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     margin-bottom: 50px;
     position: relative;
 }
 
-#footer-image-container img{
+#footer-image-container img {
     object-fit: cover;
     width: 100%;
     height: 100%;
+}
+
+
+footer {
+    background-image: linear-gradient(to right, rgb(175, 175, 250), rgb(221, 185, 255));
+    color: white;
+    padding: 50px 30px;
+}
+
+.footer-image-logo {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.footer-image-logo img {
+    width: 50px;
+    opacity: .5;
+}
+
+.footer-follow-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.footer-company-logo img {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+
+.footer-company-about-list {
+    border-left: 2px solid rgb(235, 203, 248);
+    padding-left: 50px;
+}
+
+.footer-company-about-list a {
+    text-decoration: none;
+    display: block;
+    line-height: 30px;
+    color: white;
+}
+
+.news-letter-form{
+    background-color: rgb(255, 255, 255);
+    color: black;
+    border-radius: 10px;
+    padding: 30px 20px;
+}
+.news-letter-form h3{
+    text-align: center;
+}
+.subscribe-form{
+    background-color: aliceblue;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    margin: 0 auto;
+}
+
+.subscribe-form input{
+    border: 0;
+    background-color: transparent;
+    margin-left: 10px;
+}
+
+.fa-paper-plane{
+    font-size: 1.5rem;
+    color: white;
+    background-color: rgb(67, 43, 90);
+    padding: 5px;
+    border-radius: 50%;
 }
