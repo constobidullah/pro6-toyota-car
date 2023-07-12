@@ -43,8 +43,10 @@ nav {
     font-family: 'Ysabeau Infant', sans-serif;
 }
 
+/* Future arrrived */
+
 #future-arrived {
-    margin: 150px 0 ;
+    margin: 150px 0;
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     gap: 50px;
@@ -60,7 +62,7 @@ nav {
     height: 100%;
 }
 
-.future-arrived-image div img{
+.future-arrived-image div img {
     width: 50px;
     position: absolute;
     bottom: 25%;
@@ -68,11 +70,12 @@ nav {
     opacity: .3;
 }
 
-.future-arrived-text{
+.future-arrived-text {
     margin-bottom: 100px;
+    width: 100%;
 }
 
-.future-arrived-text h1{
+.future-arrived-text h1 {
     padding: 50px 20px;
     font-size: 2.5rem;
     background-image: url("./images/future-arrived-background.png");
@@ -80,13 +83,13 @@ nav {
     background-size: contain;
 }
 
-.future-arrived-text p{
+.future-arrived-text p {
     padding: 0 90px 30px;
-    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     text-align: left;
 }
 
-.future-arrived-text a{
+.future-arrived-text a {
     text-decoration: none;
     margin: 0 0 0 90px;
     padding: 5px 20px;
@@ -95,4 +98,51 @@ nav {
     font-weight: 800;
     background-image: linear-gradient(to left, rgb(134, 134, 255) 0%, rgb(202, 146, 255)100%);
 }
+
+
+/* Machine pal */
+
+#machine-pal {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 30px;
+    margin-bottom: 150px;
+}
+
+.machine-pal-text {
+    width: 100%;
+    padding: 0 90px;
+}
+
+.machine-pal-text h1 {
+    margin-bottom: 30px;
+    font-size: 2.5rem;
+}
+
+.machine-pal-text p {
+    font-family: 'Crimson Text', serif;
+    line-height: 20px;
+    margin-bottom: 40px;
+    text-align: left;
+    font-size: 1.2rem;
+    font-weight: 200;
+}
+
+.machine-pal-text a {
+    text-decoration: none;
+    font-family: 'Bebas Neue', sans-serif;
+    margin: 20px 0 0 0;
+    padding: 5px 15px;
+    border-radius: 20px;
+    color: white;
+    font-weight: 800;
+    background: black;
+}
+
+.machine-pal-image img {
+    object-fit: contain;
+    width: 100%;
+    height: 100%;
+}
+
 
