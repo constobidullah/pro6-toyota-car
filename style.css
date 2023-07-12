@@ -1,45 +1,98 @@
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     font-family: 'Roboto', sans-serif;
 }
 
-nav{
+nav {
     padding: 10px 50px;
     margin-bottom: 20px;
-    border-bottom: 1px solid ;
+    border-bottom: 1px solid;
     height: 70px;
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
 
-.main-logo img{
+.main-logo img {
     width: 50px;
     height: 50px;
 }
 
-.toggle-bar i{
+.toggle-bar i {
     font-size: 2.5rem;
 }
 
-#header-details{
+#header-details {
     margin: 100px 0;
     display: grid;
     grid-template-columns: 1fr;
     place-items: center;
 }
 
-#header-details-text{
+#header-details-text {
     text-align: center;
 }
 
-#header-details-text h1{
+#header-details-text h1 {
     font-size: 3.5rem;
 }
 
-#header-details-text p{
-    font-size: 1.5rem;
-    font-weight: 300;
+#header-details-text p {
+    font-family: 'Ysabeau Infant', sans-serif;
 }
+
+#future-arrived {
+    margin: 150px 0 ;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 50px;
+}
+
+.future-arrived-image {
+    position: relative;
+}
+
+.future-arrived-image .future-arrived-main-image {
+    object-fit: contain;
+    width: 100%;
+    height: 100%;
+}
+
+.future-arrived-image div img{
+    width: 50px;
+    position: absolute;
+    bottom: 25%;
+    left: 25%;
+    opacity: .3;
+}
+
+.future-arrived-text{
+    margin-bottom: 100px;
+}
+
+.future-arrived-text h1{
+    padding: 50px 20px;
+    font-size: 2.5rem;
+    background-image: url("./images/future-arrived-background.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.future-arrived-text p{
+    padding: 0 90px 30px;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: left;
+}
+
+.future-arrived-text a{
+    text-decoration: none;
+    margin: 0 0 0 90px;
+    padding: 5px 20px;
+    border-radius: 30px;
+    color: white;
+    font-weight: 800;
+    background-image: linear-gradient(to left, rgb(134, 134, 255) 0%, rgb(202, 146, 255)100%);
+}
+
