@@ -182,7 +182,7 @@ nav {
     background-image: linear-gradient(to right, rgb(134, 226, 226) 0%, rgb(119, 119, 255)100%);
 }
 
-.toyota-concept-image{
+.toyota-concept-image {
     position: relative;
 }
 
@@ -192,7 +192,7 @@ nav {
     height: 100%;
 }
 
-.toyota-concept-image-logo{
+.toyota-concept-image-logo {
     width: 50px;
     position: absolute;
     bottom: 5%;
@@ -202,18 +202,18 @@ nav {
 
 
 /* Concept looks  */
-#concept-looks{
+#concept-looks {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
 }
 
-.concept-looks-image img{
+.concept-looks-image img {
     object-fit: contain;
     width: 100%;
     height: 100%;
 }
 
-.concept-looks-text{
+.concept-looks-text {
     margin: 0 0 100px 0;
 }
 
@@ -237,3 +237,51 @@ nav {
     font-weight: 800;
     background-color: black;
 }
+
+
+/* concept team */
+
+#concept-team {
+    background-image: linear-gradient(to right, rgb(84, 185, 185) 0%, rgb(129, 129, 245) 75%, rgb(184, 115, 248)100%);
+    height: 50vh;
+
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 50px;
+
+    padding: 100px 0 100px 100px;
+}
+
+.concept-team-text p{
+    font-size: 1.2rem;
+    font-weight:300;
+    line-height: 30px;
+    color: rgb(245, 235, 235);
+    text-align: left;
+}
+
+.concept-team-planning{
+    border-radius: 160px 0 0 160px;
+    background-color: white;
+    padding: 50px 0 50px 100px;
+}
+
+.concept-team-planning h1{
+    /* padding-left: 50px; */
+    font-family: 'Crimson Text', serif;
+    font-style:oblique;
+    font-size: 2.5rem;
+    margin-bottom: 40px;
+}
+
+.concept-team-planning a{
+    text-decoration: none;
+    /* margin: 0 0 0 90px; */
+    padding: 7px 20px;
+    border-radius: 20px;
+    color: white;
+    font-weight: 800;
+    background-color: black;
+}
+
+/* Concept team end  */
