@@ -452,6 +452,10 @@ footer {
     margin-left: 10px;
 }
 
+.subscribe-form input:focus{
+    outline: none;
+}
+
 .fa-paper-plane {
     font-size: 1.5rem;
     color: white;
