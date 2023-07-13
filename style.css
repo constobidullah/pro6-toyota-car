@@ -878,6 +878,10 @@ footer {
         height: 100%;
     }
 
+    .footer-image-logo{
+        display: none;
+    }
+
     .footer-follow-container {
         display: grid;
         grid-template-columns: repeat(1, 1fr);
@@ -931,7 +935,7 @@ footer {
     }
 
     .follow-icon {
-        margin-top: 30px;
+        margin-top: 10px;
         text-align: center;
     }
 
@@ -940,8 +944,8 @@ footer {
     }
 
     .follow-icon-link a {
-        font-size: 2rem;
-        padding: 10px;
+        font-size: 1rem;
+        padding: 5px;
         color: white;
     }
 }
