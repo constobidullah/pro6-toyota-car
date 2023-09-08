@@ -587,6 +587,11 @@ footer {
     cursor: pointer;
 }
 
+.fa-space-awesome:hover{
+    color: rgb(91, 91, 255);
+    transform: rotate(180deg);
+}
+
 .follow-icon {
     margin-top: 30px;
     text-align: center;
