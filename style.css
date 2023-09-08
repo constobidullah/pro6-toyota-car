@@ -478,7 +478,7 @@ nav ul li a:hover {
 #footer-image-container {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
-    /* margin-bottom: 50px; */
+    
     position: relative;
 }
 
