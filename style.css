@@ -103,7 +103,7 @@ nav ul li a:hover {
     margin: 150px 0;
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    gap: 50px;
+    gap: 40px;
 }
 
 .future-arrived-image {
@@ -121,7 +121,7 @@ nav ul li a:hover {
     position: absolute;
     bottom: 25%;
     left: 25%;
-    opacity: .3;
+    opacity: .5;
 }
 
 .future-arrived-text {
@@ -130,8 +130,9 @@ nav ul li a:hover {
 }
 
 .future-arrived-text h1 {
-    padding: 50px 20px;
+    padding: 50px 10px 20px 30px;
     font-size: 2.5rem;
+    font-family: 'Montserrat', sans-serif;
     background-image: url("./images/future-arrived-background.png");
     background-repeat: no-repeat;
     background-size: contain;
