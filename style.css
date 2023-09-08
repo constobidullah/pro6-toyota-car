@@ -490,6 +490,10 @@ nav ul li a:hover {
     transition: .4s;
 }
 
+#footer-image-container img:hover{
+    transform: scale(0.9);
+}
+
 
 footer {
     background-image: linear-gradient(to right, rgb(175, 175, 250), rgb(221, 185, 255));
