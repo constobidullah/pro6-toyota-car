@@ -139,8 +139,8 @@ nav ul li a:hover {
 }
 
 .future-arrived-text p {
-    padding: 0 90px 30px;
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    padding: 0 100px 30px 70px;
+    font-family: 'Dosis', sans-serif;
     text-align: left;
 }
 
