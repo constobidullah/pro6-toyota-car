@@ -146,11 +146,11 @@ nav ul li a:hover {
 
 .future-arrived-text a {
     text-decoration: none;
-    margin: 0 0 0 90px;
+    margin: 0 0 0 70px;
     padding: 5px 20px;
-    border-radius: 30px;
+    border-radius: 5px;
     color: white;
-    font-weight: 800;
+    font-weight: 600;
     background-image: linear-gradient(to left, rgb(134, 134, 255) 0%, rgb(202, 146, 255)100%);
 }
 
