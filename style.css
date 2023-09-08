@@ -514,6 +514,7 @@ footer {
 .footer-follow-container {
     display: flex;
     justify-content: space-between;
+    align-items: center;
 }
 
 .footer-company-logo img {
