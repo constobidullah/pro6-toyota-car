@@ -610,6 +610,13 @@ footer {
     color: #fff;
     border: 5px solid #fff;
     border-radius: 50%;
+    box-shadow: 0 0 0 0 rgba(0, 0, 0, 0);
+}
+
+.follow-icon-link a:hover{
+    background-color: #fff;
+    color: #000;
+    box-shadow: 0 0 100px 0 rgba(0, 0, 0, 0.1);
 }
 
 
