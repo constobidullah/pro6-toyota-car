@@ -453,13 +453,13 @@ nav ul li a:hover {
 
 /* join future */
 #join-future {
-    margin-left: 200px;
+    margin-left: 100px;
 }
 
 #join-future h1 {
     font-weight: lighter;
     padding: 50px 0 30px 50px;
-
+    
     background-image: url("./images/future-arrived-background.png");
     background-repeat: no-repeat;
     background-size: contain;
