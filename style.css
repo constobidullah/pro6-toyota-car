@@ -584,6 +584,7 @@ footer {
     font-size: 1.5rem;
     color: black;
     padding: 5px;
+    cursor: pointer;
 }
 
 .follow-icon {
