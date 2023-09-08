@@ -420,7 +420,7 @@ nav ul li a:hover {
 .join-us-text p {
     padding: 0 90px 50px;
     font-family: 'Dosis', sans-serif;
-    text-align: left;
+    text-align: justify;
     font-style: oblique;
 }
 
