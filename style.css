@@ -605,8 +605,10 @@ footer {
 .follow-icon-link a {
     font-size: 1rem;
     padding: 10px;
+    margin: 5px;
     background-color: #000;
     color: #fff;
+    border: 5px solid #fff;
     border-radius: 50%;
 }
 
