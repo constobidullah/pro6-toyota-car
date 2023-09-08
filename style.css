@@ -513,6 +513,7 @@ footer {
 
 .footer-follow-container {
     display: flex;
+    justify-content: space-between;
 }
 
 .footer-company-logo img {
