@@ -442,6 +442,11 @@ nav ul li a:hover {
     transition: .5s;
 }
 
+.join-us-text .join-us-btn:hover{
+    box-shadow: inset 140px 0 0 0 #fff;
+    color: black;
+}
+
 /* join us end */
 
 
