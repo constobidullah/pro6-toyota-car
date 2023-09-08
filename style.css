@@ -603,9 +603,11 @@ footer {
 }
 
 .follow-icon-link a {
-    font-size: 2rem;
+    font-size: 1rem;
     padding: 10px;
-    color: white;
+    background-color: #000;
+    color: #fff;
+    border-radius: 50%;
 }
 
 
