@@ -227,12 +227,13 @@ nav ul li a:hover {
 }
 
 .toyota-concept-text {
-    padding: 0 0 100px 20px;
+    padding: 0 0 100px 30px;
 }
 
 .toyota-concept-text h1 {
-    padding: 50px 20px 50px 100px;
+    padding: 50px 0 20px 10px;
     font-size: 2.5rem;
+    font-family: 'Montserrat', sans-serif;
     background-image: url("./images/toyota-concept-background.png");
     background-repeat: no-repeat;
     background-size: contain;
