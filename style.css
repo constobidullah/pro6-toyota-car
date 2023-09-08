@@ -512,8 +512,7 @@ footer {
 }
 
 .footer-follow-container {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    display: flex;
 }
 
 .footer-company-logo img {
