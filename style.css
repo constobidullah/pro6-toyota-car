@@ -579,12 +579,10 @@ footer {
     outline: none;
 }
 
-.fa-paper-plane {
+.fa-shuttle-space {
     font-size: 1.5rem;
-    color: white;
-    background-color: rgb(67, 43, 90);
+    color: black;
     padding: 5px;
-    border-radius: 50%;
 }
 
 .follow-icon {
