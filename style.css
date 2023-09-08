@@ -585,11 +585,12 @@ footer {
     color: black;
     padding: 5px;
     cursor: pointer;
+    transition: 1s;
 }
 
 .fa-space-awesome:hover{
     color: rgb(91, 91, 255);
-    transform: rotate(180deg);
+    transform: rotate(360deg);
 }
 
 .follow-icon {
