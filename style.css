@@ -25,6 +25,22 @@ nav {
     display: none;
 }
 
+nav ul{
+    position: absolute;
+    top: 70px;
+    background-color: #99a2f1;
+    width: 100%;
+    height: 50vh;
+    list-style: none;
+    text-align: center;
+}
+
+nav ul li a{
+    text-decoration: none;
+    line-height: 70px;
+    font-size: 2.5rem;
+    color: #fff;
+}
 
 .toggle-bar i {
     font-size: 2rem;
