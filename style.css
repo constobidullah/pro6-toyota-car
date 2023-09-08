@@ -21,6 +21,11 @@ nav {
     height: 60px;
 }
 
+#collapse {
+    display: none;
+}
+
+
 .toggle-bar i {
     font-size: 2rem;
 }
@@ -453,7 +458,7 @@ footer {
     margin-left: 10px;
 }
 
-.subscribe-form input:focus{
+.subscribe-form input:focus {
     outline: none;
 }
 
@@ -879,7 +884,7 @@ footer {
         height: 100%;
     }
 
-    .footer-image-logo{
+    .footer-image-logo {
         display: none;
     }
 
