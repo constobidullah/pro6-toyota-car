@@ -538,9 +538,15 @@ footer {
     display: block;
     line-height: 30px;
     color: white;
-
+    padding: 0 10px ;
+    border-radius: 3px;
     box-shadow: inset 0 0 0 0 transparent;
     transition: .5s;
+}
+
+.footer-company-about-list a:hover{
+    box-shadow: inset 100px 0 0 0 #fff;
+    color: black;
 }
 
 .news-letter-form {
