@@ -173,7 +173,7 @@ nav ul li a:hover {
 
 .machine-pal-text {
     width: 100%;
-    padding: 0 90px;
+    padding: 0 30px;
 }
 
 .machine-pal-text h1 {
@@ -186,8 +186,8 @@ nav ul li a:hover {
     font-family: 'Dosis', sans-serif;
     line-height: 20px;
     margin-bottom: 40px;
-    text-align: left;
-    font-size: 1.2rem;
+    text-align: justify;
+    font-size: 1rem;
     font-weight: 200;
 }
 
