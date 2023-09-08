@@ -620,9 +620,11 @@ footer {
     box-shadow: 0 0 100px 0 rgba(0, 0, 0, 0.1);
 }
 
-.follow-icon-link a .fa-linkedin-in:hover{
+.follow-icon-link a:nth-child(1):hover{
     color: blue;
-    transform: scale(1.3);
+}
+.follow-icon-link a:nth-child(2):hover{
+    color: red;
 }
 
 
