@@ -340,6 +340,7 @@ nav ul li a:hover {
 
     display: grid;
     grid-template-columns: repeat(2, 1fr);
+    align-items: center;
     gap: 50px;
 
     padding: 60px 0 60px 30px;
@@ -347,9 +348,9 @@ nav ul li a:hover {
 
 .concept-team-text p {
     font-size: 1.2rem;
-    font-weight: 300;
+    font-family: 'Dosis', sans-serif;
     line-height: 30px;
-    color: rgb(245, 235, 235);
+    color: black;
     text-align: left;
 }
 
