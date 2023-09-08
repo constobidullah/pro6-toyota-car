@@ -361,8 +361,7 @@ nav ul li a:hover {
 }
 
 .concept-team-planning h1 {
-    /* padding-left: 50px; */
-    font-family: 'Crimson Text', serif;
+    font-family: 'Montserrat', sans-serif;
     font-style: oblique;
     font-size: 2.5rem;
     margin-bottom: 40px;
