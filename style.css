@@ -433,7 +433,7 @@ nav ul li a:hover {
     text-decoration: none;
     margin: 0 0 0 90px;
     padding: 5px 20px;
-    border-radius: 30px;
+    border-radius: 5px;
     color: white;
     font-weight: 800;
     background-image: linear-gradient(to left, rgb(134, 134, 255) 0%, rgb(202, 146, 255)100%);
