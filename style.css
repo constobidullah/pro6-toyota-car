@@ -28,6 +28,7 @@ nav {
 .main-logo img {
     width: 60px;
     height: 60px;
+    cursor: pointer;
 }
 
 #collapse {
