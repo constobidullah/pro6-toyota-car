@@ -307,9 +307,9 @@ nav ul li a:hover {
 }
 
 .concept-looks-text p {
-    padding: 0 90px 30px;
+    padding: 0 80px 30px;
     font-family: 'Dosis', sans-serif;
-    text-align: left;
+    text-align: justify;
 }
 
 .concept-looks-text a {
