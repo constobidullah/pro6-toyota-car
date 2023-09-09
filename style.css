@@ -759,4 +759,8 @@ footer {
         gap: 50px;
         padding: 60px 20px 60px 10px;
     }
+
+    .concept-team-text p {
+        font-size: 1rem;
+    }
 }
