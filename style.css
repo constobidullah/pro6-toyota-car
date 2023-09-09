@@ -806,4 +806,8 @@ footer {
     #join-future {
         margin-left: 0;
     }
+
+    #join-future h1 {
+        padding: 40px 0 20px 10px;
+    }
 }
