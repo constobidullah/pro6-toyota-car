@@ -695,4 +695,8 @@ footer {
         padding: 0 10px;
     }
 
+    .machine-pal-text h1 {
+        font-size: 2rem;
+    }
+
 }
