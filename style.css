@@ -658,5 +658,9 @@ footer {
         margin: 100px 0 50px;
         grid-template-columns: 1fr;
     }
+
+    .future-arrived-image div img {
+        bottom: 5%;
+    }
     
 }
