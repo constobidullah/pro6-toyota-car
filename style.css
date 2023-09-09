@@ -646,5 +646,8 @@ footer {
         overflow-x: hidden;
     }
 
+    nav ul {
+        width: 50%;
+    }
     
 }
