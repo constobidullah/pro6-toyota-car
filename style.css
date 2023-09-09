@@ -755,12 +755,15 @@ footer {
 
     /* concept team */
     #concept-team {
+        max-height: 750px;
+        min-height: 700px;
         grid-template-columns: 1fr;
         gap: 50px;
-        padding: 60px 20px 60px 10px;
+        padding: 60px 0 60px 10px;
     }
 
     .concept-team-text p {
         font-size: 1rem;
+        padding: 0 20px 0 0;
     }
 }
