@@ -666,5 +666,10 @@ footer {
     .future-arrived-text {
         margin-bottom: 30px;
     }
+
+    .future-arrived-text h1 {
+        padding: 30px 10px 20px 30px;
+        font-size: 2rem;
+    }
     
 }
