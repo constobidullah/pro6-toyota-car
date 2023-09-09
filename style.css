@@ -777,4 +777,9 @@ footer {
     }
 
     /* Join us start */
+    #join-us-container {
+        grid-template-columns: 1fr;
+        gap: 10px;
+        margin-bottom: 40px;
+    }
 }
