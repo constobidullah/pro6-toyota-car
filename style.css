@@ -685,5 +685,10 @@ footer {
 
     /* Machine pal */
     
+    #machine-pal {
+        grid-template-columns: 1fr;
+        gap: 50px;
+        margin-bottom: 100px;
+    }
 
 }
