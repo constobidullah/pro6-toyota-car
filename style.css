@@ -735,4 +735,7 @@ footer {
     }
 
     /* Concept looks  */
+    #concept-looks {
+        grid-template-columns: 1fr;
+    }
 }
