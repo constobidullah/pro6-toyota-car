@@ -653,5 +653,10 @@ footer {
     #header-details-text h1 {
         font-size: 2.5rem;
     }
+
+    #future-arrived {
+        margin: 100px 0 50px;
+        grid-template-columns: 1fr;
+    }
     
 }
