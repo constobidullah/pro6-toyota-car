@@ -671,5 +671,9 @@ footer {
         padding: 30px 10px 20px 30px;
         font-size: 2rem;
     }
+
+    .future-arrived-text p {
+        padding: 0 40px 30px 50px;
+    }
     
 }
