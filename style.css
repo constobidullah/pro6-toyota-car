@@ -816,6 +816,7 @@ footer {
     }
 
     /* Footer image container */
+
     #footer-image-container {
         grid-template-columns: repeat(2, 1fr);
     }
