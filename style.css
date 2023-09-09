@@ -826,4 +826,9 @@ footer {
     footer {
         padding: 50px 10px;
     }
+
+    .footer-image-logo img {
+        width: 100px;
+        opacity: .7;
+    }
 }
