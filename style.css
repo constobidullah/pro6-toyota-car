@@ -675,12 +675,12 @@ footer {
     }
 
     .future-arrived-text p {
-        padding: 0 40px 30px 40px;
+        padding: 0 20px 30px 10px;
     }
 
 
     .future-arrived-text a {
-        margin: 0 0 0 40px;
+        margin: 0 0 0 10px;
     }
 
     /* Machine pal */
@@ -692,7 +692,7 @@ footer {
     }
 
     .machine-pal-text {
-        padding: 0 10px;
+        padding: 0 20px 0 10px;
     }
 
     .machine-pal-text h1 {
@@ -713,5 +713,11 @@ footer {
     .toyota-concept-text h1 {
         padding: 30px 10px 20px 10px;
         font-size: 2rem;
+    }
+
+    .toyota-concept-text p {
+        padding: 0 30px 30px;
+        font-family: 'Dosis', sans-serif;
+        text-align: justify;
     }
 }
