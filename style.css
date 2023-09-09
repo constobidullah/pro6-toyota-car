@@ -766,4 +766,9 @@ footer {
         font-size: 1rem;
         padding: 0 20px 0 0;
     }
+
+    .concept-team-planning {
+        border-radius: 250px 0 0 250px;
+        padding: 30px 0 30px 130px;
+    }
 }
