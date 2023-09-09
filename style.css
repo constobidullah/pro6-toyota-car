@@ -724,4 +724,9 @@ footer {
     .toyota-concept-text a {
         margin: 0 0 0 0;
     }
+
+    .toyota-concept-image-logo {
+        bottom: 2%;
+        right: 35%;
+    }
 }
