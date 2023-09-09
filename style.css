@@ -736,6 +736,7 @@ footer {
 
     /* Concept looks  */
     #concept-looks {
+        margin: 100px 0 0 0;
         grid-template-columns: 1fr;
     }
 
