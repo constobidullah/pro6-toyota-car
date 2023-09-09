@@ -701,4 +701,8 @@ footer {
 
     /* Toyota concept */
 
+    #toyota-concept {
+        grid-template-columns: 1fr;
+        gap: 20px;
+    }
 }
