@@ -705,4 +705,8 @@ footer {
         grid-template-columns: 1fr;
         gap: 20px;
     }
+
+    .toyota-concept-text {
+        padding: 0 10px;
+    }
 }
