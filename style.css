@@ -803,4 +803,7 @@ footer {
 
     /* join future */
 
+    #join-future {
+        margin-left: 0;
+    }
 }
