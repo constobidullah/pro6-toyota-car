@@ -747,4 +747,8 @@ footer {
     .concept-looks-text p {
         padding: 0 20px 30px 10px;
     }
+
+    .concept-looks-text a {
+        margin: 0 0 0 10px;
+    }
 }
