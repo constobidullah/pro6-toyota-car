@@ -793,4 +793,8 @@ footer {
         font-size: 2rem;
     }
 
+    .join-us-text p {
+        padding: 0 70px 30px 10px;
+    }
+
 }
