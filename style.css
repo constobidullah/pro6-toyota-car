@@ -720,4 +720,8 @@ footer {
         font-family: 'Dosis', sans-serif;
         text-align: justify;
     }
+
+    .toyota-concept-text a {
+        margin: 0 0 0 0;
+    }
 }
