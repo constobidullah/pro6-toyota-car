@@ -754,4 +754,9 @@ footer {
     }
 
     /* concept team */
+    #concept-team {
+        grid-template-columns: 1fr;
+        gap: 50px;
+        padding: 60px 20px 60px 10px;
+    }
 }
