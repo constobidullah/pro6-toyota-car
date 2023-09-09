@@ -711,12 +711,12 @@ footer {
     }
 
     .toyota-concept-text h1 {
-        padding: 30px 10px 20px 10px;
+        padding: 30px 10px 20px 0;
         font-size: 2rem;
     }
 
     .toyota-concept-text p {
-        padding: 0 30px 30px;
+        padding: 0 20px 30px 0;
         font-family: 'Dosis', sans-serif;
         text-align: justify;
     }
