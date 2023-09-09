@@ -649,10 +649,12 @@ footer {
     nav ul {
         width: 50%;
     }
-    
+
     #header-details-text h1 {
         font-size: 2.5rem;
     }
+
+    /* Future arrived */
 
     #future-arrived {
         margin: 100px 0 50px;
@@ -676,9 +678,12 @@ footer {
         padding: 0 40px 30px 50px;
     }
 
+
+    .future-arrived-text a {
+        margin: 0 0 0 50px;
+    }
+
+    /* Machine pal */
     
-.future-arrived-text a {
-    margin: 0 0 0 50px;
-}
-    
+
 }
