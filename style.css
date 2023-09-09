@@ -831,4 +831,10 @@ footer {
         width: 100px;
         opacity: .7;
     }
+
+    .footer-follow-container {
+        flex-direction: column;
+        justify-content: space-around;
+        gap: 30px;
+    }
 }
