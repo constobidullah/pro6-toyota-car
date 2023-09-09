@@ -820,4 +820,10 @@ footer {
     #footer-image-container {
         grid-template-columns: repeat(2, 1fr);
     }
+
+    /* Footer */
+
+    footer {
+        padding: 50px 10px;
+    }
 }
