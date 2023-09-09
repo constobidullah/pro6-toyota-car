@@ -670,17 +670,17 @@ footer {
     }
 
     .future-arrived-text h1 {
-        padding: 30px 10px 20px 30px;
+        padding: 30px 10px 20px 10px;
         font-size: 2rem;
     }
 
     .future-arrived-text p {
-        padding: 0 40px 30px 50px;
+        padding: 0 40px 30px 40px;
     }
 
 
     .future-arrived-text a {
-        margin: 0 0 0 50px;
+        margin: 0 0 0 40px;
     }
 
     /* Machine pal */
@@ -689,6 +689,10 @@ footer {
         grid-template-columns: 1fr;
         gap: 50px;
         margin-bottom: 100px;
+    }
+
+    .machine-pal-text {
+        padding: 0 10px;
     }
 
 }
